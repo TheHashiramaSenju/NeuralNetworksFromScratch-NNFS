@@ -12,6 +12,7 @@ bias = 2
 output = inputs[0] * weights[0] + inputs[1] * weights[1] + inputs[2] * weights[2] + bias 
 print(output)
 
+
 '''
 Now we are going to add more neurons kinda.
 think of it like this --> 3 NEURONS WITH 4 INPUTS EACH! (Surprising Isn't it ?)
